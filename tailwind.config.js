@@ -3,7 +3,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        "mountain": "url('/montain.webp')",
+        "mountain": "url('/public/montain.webp')",
       },
       fontFamily: {
         merriweather: ["Merriweather Sans", "serif"], 
